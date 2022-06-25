@@ -1,0 +1,7 @@
+\begin{figure}[H]
+    \centering
+    %trim={<left> <lower> <right> <upper>}
+    \includegraphics[width=\linewidth]{Population_study/Chicago_Tracts_Population_Centroids1.pdf}
+    \caption{Centroid of the community area 1}
+    \label{fig:community_centroids2}
+\end{figure}

@@ -1,0 +1,15 @@
+matlab &
+
+d: & cd Documentos\otp & java -Xmx5G -jar otp.jar --router Chicago --graphs graphs --server
+
+e: & cd OTP & java -Xmx5G -jar otp.jar --router Chicago --graphs graphs --server
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+e: & cd OTP2 & java -Xmx5G -jar otp.jar --build graphs/Chicago
+
+e: & cd OTP2 & java -Xmx12G -jar otp.jar --router Chicago --graphs graphs --server
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+e: & cd OTP3 & java -Xmx5G -jar otp.jar --build graphs/Chicago
+
+e: & cd OTP3 & java -Xmx5G -jar otp.jar --router Chicago --graphs graphs --server

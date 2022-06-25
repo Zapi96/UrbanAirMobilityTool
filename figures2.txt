@@ -1,0 +1,501 @@
+\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]\begin{figure}[H]h=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids6.pdf}
+\caption{Centroid of the community area 6}"
+\label{fig:community_centroids8}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids7.pdf}
+\caption{Centroid of the community area 7}"
+\label{fig:community_centroids9}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids8.pdf}
+\caption{Centroid of the community area 8}"
+\label{fig:community_centroids10}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids9.pdf}
+\caption{Centroid of the community area 9}"
+\label{fig:community_centroids11}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids10.pdf}
+\caption{Centroid of the community area 10}"
+\label{fig:community_centroids12}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids11.pdf}
+\caption{Centroid of the community area 11}"
+\label{fig:community_centroids13}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids12.pdf}
+\caption{Centroid of the community area 12}"
+\label{fig:community_centroids14}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids13.pdf}
+\caption{Centroid of the community area 13}"
+\label{fig:community_centroids15}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids14.pdf}
+\caption{Centroid of the community area 14}"
+\label{fig:community_centroids16}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids15.pdf}
+\caption{Centroid of the community area 15}"
+\label{fig:community_centroids17}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids16.pdf}
+\caption{Centroid of the community area 16}"
+\label{fig:community_centroids18}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids17.pdf}
+\caption{Centroid of the community area 17}"
+\label{fig:community_centroids19}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids18.pdf}
+\caption{Centroid of the community area 18}"
+\label{fig:community_centroids20}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids19.pdf}
+\caption{Centroid of the community area 19}"
+\label{fig:community_centroids21}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids20.pdf}
+\caption{Centroid of the community area 20}"
+\label{fig:community_centroids22}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids21.pdf}
+\caption{Centroid of the community area 21}"
+\label{fig:community_centroids23}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids22.pdf}
+\caption{Centroid of the community area 22}"
+\label{fig:community_centroids24}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids23.pdf}
+\caption{Centroid of the community area 23}"
+\label{fig:community_centroids25}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids24.pdf}
+\caption{Centroid of the community area 24}"
+\label{fig:community_centroids26}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids25.pdf}
+\caption{Centroid of the community area 25}"
+\label{fig:community_centroids27}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids26.pdf}
+\caption{Centroid of the community area 26}"
+\label{fig:community_centroids28}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids27.pdf}
+\caption{Centroid of the community area 27}"
+\label{fig:community_centroids29}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids28.pdf}
+\caption{Centroid of the community area 28}"
+\label{fig:community_centroids30}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids29.pdf}
+\caption{Centroid of the community area 29}"
+\label{fig:community_centroids31}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids30.pdf}
+\caption{Centroid of the community area 30}"
+\label{fig:community_centroids32}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids31.pdf}
+\caption{Centroid of the community area 31}"
+\label{fig:community_centroids33}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids32.pdf}
+\caption{Centroid of the community area 32}"
+\label{fig:community_centroids34}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids33.pdf}
+\caption{Centroid of the community area 33}"
+\label{fig:community_centroids35}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids34.pdf}
+\caption{Centroid of the community area 34}"
+\label{fig:community_centroids36}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids35.pdf}
+\caption{Centroid of the community area 35}"
+\label{fig:community_centroids37}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids36.pdf}
+\caption{Centroid of the community area 36}"
+\label{fig:community_centroids38}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids37.pdf}
+\caption{Centroid of the community area 37}"
+\label{fig:community_centroids39}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids38.pdf}
+\caption{Centroid of the community area 38}"
+\label{fig:community_centroids40}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids39.pdf}
+\caption{Centroid of the community area 39}"
+\label{fig:community_centroids41}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids40.pdf}
+\caption{Centroid of the community area 40}"
+\label{fig:community_centroids42}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids41.pdf}
+\caption{Centroid of the community area 41}"
+\label{fig:community_centroids43}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids42.pdf}
+\caption{Centroid of the community area 42}"
+\label{fig:community_centroids44}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids43.pdf}
+\caption{Centroid of the community area 43}"
+\label{fig:community_centroids45}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids44.pdf}
+\caption{Centroid of the community area 44}"
+\label{fig:community_centroids46}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids45.pdf}
+\caption{Centroid of the community area 45}"
+\label{fig:community_centroids47}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids46.pdf}
+\caption{Centroid of the community area 46}"
+\label{fig:community_centroids48}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids47.pdf}
+\caption{Centroid of the community area 47}"
+\label{fig:community_centroids49}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids48.pdf}
+\caption{Centroid of the community area 48}"
+\label{fig:community_centroids50}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids49.pdf}
+\caption{Centroid of the community area 49}"
+\label{fig:community_centroids51}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids50.pdf}
+\caption{Centroid of the community area 50}"
+\label{fig:community_centroids52}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids51.pdf}
+\caption{Centroid of the community area 51}"
+\label{fig:community_centroids53}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids52.pdf}
+\caption{Centroid of the community area 52}"
+\label{fig:community_centroids54}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids53.pdf}
+\caption{Centroid of the community area 53}"
+\label{fig:community_centroids55}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids54.pdf}
+\caption{Centroid of the community area 54}"
+\label{fig:community_centroids56}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids55.pdf}
+\caption{Centroid of the community area 55}"
+\label{fig:community_centroids57}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids56.pdf}
+\caption{Centroid of the community area 56}"
+\label{fig:community_centroids58}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids57.pdf}
+\caption{Centroid of the community area 57}"
+\label{fig:community_centroids59}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids58.pdf}
+\caption{Centroid of the community area 58}"
+\label{fig:community_centroids60}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids59.pdf}
+\caption{Centroid of the community area 59}"
+\label{fig:community_centroids61}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids60.pdf}
+\caption{Centroid of the community area 60}"
+\label{fig:community_centroids62}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids61.pdf}
+\caption{Centroid of the community area 61}"
+\label{fig:community_centroids63}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids62.pdf}
+\caption{Centroid of the community area 62}"
+\label{fig:community_centroids64}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids63.pdf}
+\caption{Centroid of the community area 63}"
+\label{fig:community_centroids65}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids64.pdf}
+\caption{Centroid of the community area 64}"
+\label{fig:community_centroids66}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids65.pdf}
+\caption{Centroid of the community area 65}"
+\label{fig:community_centroids67}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids66.pdf}
+\caption{Centroid of the community area 66}"
+\label{fig:community_centroids68}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids67.pdf}
+\caption{Centroid of the community area 67}"
+\label{fig:community_centroids69}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids68.pdf}
+\caption{Centroid of the community area 68}"
+\label{fig:community_centroids70}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids69.pdf}
+\caption{Centroid of the community area 69}"
+\label{fig:community_centroids71}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids70.pdf}
+\caption{Centroid of the community area 70}"
+\label{fig:community_centroids72}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids71.pdf}
+\caption{Centroid of the community area 71}"
+\label{fig:community_centroids73}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids72.pdf}
+\caption{Centroid of the community area 72}"
+\label{fig:community_centroids74}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids73.pdf}
+\caption{Centroid of the community area 73}"
+\label{fig:community_centroids75}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids74.pdf}
+\caption{Centroid of the community area 74}"
+\label{fig:community_centroids76}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids75.pdf}
+\caption{Centroid of the community area 75}"
+\label{fig:community_centroids77}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids76.pdf}
+\caption{Centroid of the community area 76}"
+\label{fig:community_centroids78}
+\end{figure}
+\begin{figure}[H]
+\centering
+%trim={<left> <lower> <right> <upper>}
+\includegraphics[width=\linewidth]{Appendix/Chicago_Tracts_Population_Centroids77.pdf}
+\caption{Centroid of the community area 77}"
+\label{fig:community_centroids79}
+\end{figure}
